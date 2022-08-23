@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bisensagar
 - 👀 I’m interested in Linux Administration and writing cool scripts
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me sagarbisen.netlify.app
 
 <!---
